@@ -1,0 +1,120 @@
+# ELIO Documentation Site — Jekyll Configuration
+# Wave 1 (Phase 5) 초기 구축본
+
+title: ELIO
+tagline: "Play first, Code later."
+description: >-
+  ELIO — 아이들의 첫 물리 컴퓨팅 경험이자 메이커의 에코시스템 허브.
+  ELIO — A kid's first physical computing experience and a maker's ecosystem hub.
+
+# 임시 GitHub Pages 주소 (도메인 확정 전)
+# 도메인 확정 후: https://elio.dev 또는 https://eliorobot.com 등으로 교체
+url: "https://elioseokhee.github.io"
+baseurl: "/elio-docs"
+
+# 저작
+author:
+  name: ELIO Robotics
+  email: caram88@mobilian.biz
+
+# GitHub 저장소 (Edit on GitHub 링크용)
+repository: johnsnow-nam/elio-docs
+
+# 테마 (Jekyll 기본 — 브랜드 디자인 완료 후 커스텀 테마로 교체 예정)
+theme: minima
+
+# 언어
+lang: ko
+
+# 플러그인
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# 컬렉션
+collections:
+  quickstart:
+    output: true
+    permalink: /quickstart/:name/
+  firmware:
+    output: true
+    permalink: /firmware/:name/
+  connectors:
+    output: true
+    permalink: /connectors/:name/
+  education:
+    output: true
+    permalink: /education/:name/
+  platforms:
+    output: true
+    permalink: /platforms/:name/
+  ecosystem:
+    output: true
+    permalink: /ecosystem/:name/
+
+# 기본값
+defaults:
+  - scope:
+      path: ""
+      type: "quickstart"
+    values:
+      layout: "default"
+      category: "Quick Start"
+  - scope:
+      path: ""
+      type: "firmware"
+    values:
+      layout: "default"
+      category: "Firmware"
+  - scope:
+      path: ""
+      type: "connectors"
+    values:
+      layout: "default"
+      category: "Connectors"
+  - scope:
+      path: ""
+      type: "education"
+    values:
+      layout: "default"
+      category: "Education"
+  - scope:
+      path: ""
+      type: "platforms"
+    values:
+      layout: "default"
+      category: "Platforms"
+  - scope:
+      path: ""
+      type: "ecosystem"
+    values:
+      layout: "default"
+      category: "Ecosystem"
+
+# SEO
+twitter:
+  username: # TBD
+  card: summary_large_image
+
+# 네비게이션 메뉴
+navigation:
+  - title: 시작하기
+    url: /quickstart/
+  - title: 펌웨어
+    url: /firmware/
+  - title: 커넥터
+    url: /connectors/
+  - title: 교육
+    url: /education/
+  - title: 플랫폼
+    url: /platforms/
+  - title: 에코시스템
+    url: /ecosystem/
+
+# 파일 제외
+exclude:
+  - README.md
+  - vendor
+  - Gemfile
+  - Gemfile.lock
