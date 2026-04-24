@@ -80,9 +80,9 @@ permalink: /quickstart/unboxing/
 
 전원이 켜졌다면 앱을 설치해 연결할 차례입니다. 사용하는 스마트폰을 골라주세요:
 
-- 📱 [**Android 앱 연결하기**](/quickstart/android/)
-- 🍎 [**iOS 앱 연결하기**](/quickstart/ios/)
+- 📱 [**Android 앱 연결하기**](/elio-docs/quickstart/android/)
+- 🍎 [**iOS 앱 연결하기**](/elio-docs/quickstart/ios/)
 
 ---
 
-⬅ [빠른 시작으로 돌아가기](/quickstart/)
+⬅ [빠른 시작으로 돌아가기](/elio-docs/quickstart/)

@@ -15,25 +15,25 @@ permalink: /en/firmware/
 <table>
 <tr><th>Profile</th><th>Specialty</th><th>Key Sensors</th><th>Best For</th></tr>
 <tr>
-<td><a href="/firmware/elio-base/"><b>elio-base</b></a></td>
+<td><a href="/elio-docs/firmware/elio-base/"><b>elio-base</b></a></td>
 <td>General purpose</td>
 <td>—</td>
 <td>RC car, basic robot</td>
 </tr>
 <tr>
-<td><a href="/firmware/elio-farm/"><b>elio-farm</b></a></td>
+<td><a href="/elio-docs/firmware/elio-farm/"><b>elio-farm</b></a></td>
 <td>Environmental sensors</td>
 <td>Temperature · Humidity · Moisture</td>
 <td>Smart planter, AgriTech IoT</td>
 </tr>
 <tr>
-<td><a href="/firmware/elio-servo/"><b>elio-servo</b></a></td>
+<td><a href="/elio-docs/firmware/elio-servo/"><b>elio-servo</b></a></td>
 <td>Servo-focused</td>
 <td>—</td>
 <td>Multi-joint robot, 2-axis gimbal</td>
 </tr>
 <tr>
-<td><a href="/firmware/elio-sensor/"><b>elio-sensor</b></a></td>
+<td><a href="/elio-docs/firmware/elio-sensor/"><b>elio-sensor</b></a></td>
 <td>Full sensor stack</td>
 <td>Ultrasonic · Line · Light</td>
 <td>Line following, autonomous driving</td>
@@ -63,9 +63,9 @@ Competitors: one board = one use case — buy multiple boards for different proj
 
 ## 📚 Related
 
-- [Firmware comparison](/firmware/elio-base/#comparison) *(comparison table at the bottom of each profile page)*
-- [DFU troubleshooting](/troubleshooting/#firmware)
+- [Firmware comparison](/elio-docs/firmware/elio-base/#comparison) *(comparison table at the bottom of each profile page)*
+- [DFU troubleshooting](/elio-docs/troubleshooting/#firmware)
 
 ---
 
-🌐 [**한국어**](/firmware/)
+🌐 [**한국어**](/elio-docs/firmware/)

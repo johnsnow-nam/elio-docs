@@ -130,7 +130,7 @@ DC 포트 (4핀):
   └─────┴─────┴─────┘
 ```
 
-정확한 배치는 보드의 실크스크린 또는 [하드웨어 레퍼런스](/firmware/) 참조.
+정확한 배치는 보드의 실크스크린 또는 [하드웨어 레퍼런스](/elio-docs/firmware/) 참조.
 
 ---
 
@@ -157,4 +157,4 @@ DC 포트 (4핀):
 
 ---
 
-🌐 [**English**](/en/connectors/motor-guide/)
+🌐 [**English**](/elio-docs/en/connectors/motor-guide/)

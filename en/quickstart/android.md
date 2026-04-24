@@ -108,18 +108,18 @@ No motor? The app will still show the virtual output (-100 to +100).
 
 ## 🆘 Troubleshooting
 
-- 🔌 [**Can't connect**](/en/troubleshooting/#connection)
-- 📡 [**BLE not found**](/en/troubleshooting/#ble)
-- 🔋 [**LED blinks but app can't find it**](/en/troubleshooting/#ble)
+- 🔌 [**Can't connect**](/elio-docs/en/troubleshooting/#connection)
+- 📡 [**BLE not found**](/elio-docs/en/troubleshooting/#ble)
+- 🔋 [**LED blinks but app can't find it**](/elio-docs/en/troubleshooting/#ble)
 
 ---
 
 ## Next
 
-- [**Swap firmware profiles**](/en/firmware/)
-- [**Connect LEGO motors**](/en/connectors/motor-guide/)
-- [**Use with Scratch · Entry**](/en/platforms/)
+- [**Swap firmware profiles**](/elio-docs/en/firmware/)
+- [**Connect LEGO motors**](/elio-docs/en/connectors/motor-guide/)
+- [**Use with Scratch · Entry**](/elio-docs/en/platforms/)
 
 ---
 
-⬅ [Back to Quick Start](/en/quickstart/)
+⬅ [Back to Quick Start](/elio-docs/en/quickstart/)

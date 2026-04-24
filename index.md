@@ -18,7 +18,7 @@ permalink: /
 📦 박스 개봉  →  📱 앱 연결  →  🎮 첫 블록 실행
 ```
 
-👉 [**빠른 시작 가이드 보기**](/quickstart/)
+👉 [**빠른 시작 가이드 보기**](/elio-docs/quickstart/)
 
 ---
 
@@ -28,10 +28,10 @@ permalink: /
 
 | 프로파일 | 특징 |
 |----------|------|
-| [elio-base](/firmware/elio-base/) | 기본 — DC·서보·IO |
-| [elio-farm](/firmware/elio-farm/) | 환경 센서 (온도·습도·수분) |
-| [elio-servo](/firmware/elio-servo/) | 서보 중심 (다관절 로봇) |
-| [elio-sensor](/firmware/elio-sensor/) | 풀 센서 (초음파·라인·조도) |
+| [elio-base](/elio-docs/firmware/elio-base/) | 기본 — DC·서보·IO |
+| [elio-farm](/elio-docs/firmware/elio-farm/) | 환경 센서 (온도·습도·수분) |
+| [elio-servo](/elio-docs/firmware/elio-servo/) | 서보 중심 (다관절 로봇) |
+| [elio-sensor](/elio-docs/firmware/elio-sensor/) | 풀 센서 (초음파·라인·조도) |
 
 스마트폰 앱에서 탭 한 번으로 펌웨어를 바꿀 수 있습니다.
 
@@ -46,7 +46,7 @@ ELIO는 **세상의 모든 모터**와 대화합니다:
 - 🎛️ **산업용 소형 모터** (Faulhaber 등)
 - ⚙️ **RC 서보** (3선 표준)
 
-👉 [**모터 연결 가이드**](/connectors/motor-guide/)
+👉 [**모터 연결 가이드**](/elio-docs/connectors/motor-guide/)
 
 ---
 
@@ -54,10 +54,10 @@ ELIO는 **세상의 모든 모터**와 대화합니다:
 
 Arduino · micro:bit · ESP32 · Pixhawk와 **UART로 대화**하는 에코시스템 허브:
 
-- 🔷 [**Arduino와 연결**](/ecosystem/arduino/)
-- 🟢 [**micro:bit과 연결**](/ecosystem/microbit/)
-- 🔶 [**ESP32 + AI 카메라**](/ecosystem/esp32/)
-- 🚁 [**Pixhawk 드론**](/ecosystem/pixhawk/)
+- 🔷 [**Arduino와 연결**](/elio-docs/ecosystem/arduino/)
+- 🟢 [**micro:bit과 연결**](/elio-docs/ecosystem/microbit/)
+- 🔶 [**ESP32 + AI 카메라**](/elio-docs/ecosystem/esp32/)
+- 🚁 [**Pixhawk 드론**](/elio-docs/ecosystem/pixhawk/)
 
 ---
 
@@ -65,16 +65,16 @@ Arduino · micro:bit · ESP32 · Pixhawk와 **UART로 대화**하는 에코시�
 
 ELIO는 주요 교육 블록 코딩 플랫폼과 호환됩니다:
 
-- [**Entry (엔트리)**](/platforms/entry/) — 한국 블록 코딩
-- [**Scratch 3.0**](/platforms/scratch/) — 글로벌 교육
-- [**Python SDK**](/platforms/python/) — 개발자·연구자
+- [**Entry (엔트리)**](/elio-docs/platforms/entry/) — 한국 블록 코딩
+- [**Scratch 3.0**](/elio-docs/platforms/scratch/) — 글로벌 교육
+- [**Python SDK**](/elio-docs/platforms/python/) — 개발자·연구자
 
 ---
 
 ## 🏫 교사 · 학교
 
-- [**중학교 기술 교과 연계 수업 가이드**](/education/middle-school/) — 12차시
-- [**초등 창의 활동 — 빨대 프레임 로봇 60가지**](/education/elementary/)
+- [**중학교 기술 교과 연계 수업 가이드**](/elio-docs/education/middle-school/) — 12차시
+- [**초등 창의 활동 — 빨대 프레임 로봇 60가지**](/elio-docs/education/elementary/)
 
 ---
 
@@ -96,4 +96,4 @@ ELIO는 주요 교육 블록 코딩 플랫폼과 호환됩니다:
 ## 🌐 Language
 
 - 🇰🇷 한국어 (현재)
-- 🇬🇧 [**English**](/en/)
+- 🇬🇧 [**English**](/elio-docs/en/)

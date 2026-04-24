@@ -156,11 +156,11 @@ ELIO Android 앱은 **두 가지 연결 경로**를 동시 지원합니다:
 
 ---
 
-🌐 [**English**](/en/ecosystem/esp32/)
+🌐 [**English**](/elio-docs/en/ecosystem/esp32/)
 
 ---
 
 **다음 단계**
-- [Arduino + ELIO](/ecosystem/arduino/) — C++ 환경, 더 단순한 구조
-- [Python UART SDK](/platforms/python/) — PC Python 제어
-- [에코시스템 전체](/ecosystem/)
+- [Arduino + ELIO](/elio-docs/ecosystem/arduino/) — C++ 환경, 더 단순한 구조
+- [Python UART SDK](/elio-docs/platforms/python/) — PC Python 제어
+- [에코시스템 전체](/elio-docs/ecosystem/)

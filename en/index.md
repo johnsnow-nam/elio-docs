@@ -18,7 +18,7 @@ permalink: /en/
 📦 Unbox  →  📱 Connect app  →  🎮 Run your first block
 ```
 
-👉 [**See Quick Start Guide**](/en/quickstart/)
+👉 [**See Quick Start Guide**](/elio-docs/en/quickstart/)
 
 ---
 
@@ -28,10 +28,10 @@ A single ELIO board transforms into **4 different firmwares** via your smartphon
 
 | Profile | Specialty |
 |---------|-----------|
-| [elio-base](/en/firmware/elio-base/) | Base — DC · Servo · IO |
-| [elio-farm](/en/firmware/elio-farm/) | Environmental sensors (temperature · humidity · moisture) |
-| [elio-servo](/en/firmware/elio-servo/) | Servo-focused (multi-joint robots) |
-| [elio-sensor](/en/firmware/elio-sensor/) | Full sensors (ultrasonic · line · light) |
+| [elio-base](/elio-docs/en/firmware/elio-base/) | Base — DC · Servo · IO |
+| [elio-farm](/elio-docs/en/firmware/elio-farm/) | Environmental sensors (temperature · humidity · moisture) |
+| [elio-servo](/elio-docs/en/firmware/elio-servo/) | Servo-focused (multi-joint robots) |
+| [elio-sensor](/elio-docs/en/firmware/elio-sensor/) | Full sensors (ultrasonic · line · light) |
 
 Swap firmware with one tap in the mobile app.
 
@@ -46,7 +46,7 @@ ELIO talks to **every motor in the world**:
 - 🎛️ **Industrial mini motors** (Faulhaber, etc.)
 - ⚙️ **RC servos** (3-wire standard)
 
-👉 [**Motor Connection Guide**](/en/connectors/motor-guide/)
+👉 [**Motor Connection Guide**](/elio-docs/en/connectors/motor-guide/)
 
 ---
 
@@ -54,10 +54,10 @@ ELIO talks to **every motor in the world**:
 
 ELIO is an ecosystem hub that speaks **UART with Arduino · micro:bit · ESP32 · Pixhawk**:
 
-- 🔷 [**Arduino integration**](/en/ecosystem/arduino/)
-- 🟢 [**micro:bit integration**](/en/ecosystem/microbit/)
-- 🔶 [**ESP32 + AI camera**](/en/ecosystem/esp32/)
-- 🚁 [**Pixhawk drone**](/en/ecosystem/pixhawk/)
+- 🔷 [**Arduino integration**](/elio-docs/en/ecosystem/arduino/)
+- 🟢 [**micro:bit integration**](/elio-docs/en/ecosystem/microbit/)
+- 🔶 [**ESP32 + AI camera**](/elio-docs/en/ecosystem/esp32/)
+- 🚁 [**Pixhawk drone**](/elio-docs/en/ecosystem/pixhawk/)
 
 ---
 
@@ -65,16 +65,16 @@ ELIO is an ecosystem hub that speaks **UART with Arduino · micro:bit · ESP32 �
 
 ELIO is compatible with major block-based learning platforms:
 
-- [**Entry**](/en/platforms/entry/) — Korean block coding
-- [**Scratch 3.0**](/en/platforms/scratch/) — Global education
-- [**Python SDK**](/en/platforms/python/) — Developers & researchers
+- [**Entry**](/elio-docs/en/platforms/entry/) — Korean block coding
+- [**Scratch 3.0**](/elio-docs/en/platforms/scratch/) — Global education
+- [**Python SDK**](/elio-docs/en/platforms/python/) — Developers & researchers
 
 ---
 
 ## 🏫 For teachers & schools
 
-- [**Middle-school technology curriculum guide**](/en/education/middle-school/) — 12 sessions
-- [**Elementary creative activities — 60 Straw-Frame Robots**](/en/education/elementary/)
+- [**Middle-school technology curriculum guide**](/elio-docs/en/education/middle-school/) — 12 sessions
+- [**Elementary creative activities — 60 Straw-Frame Robots**](/elio-docs/en/education/elementary/)
 
 ---
 
@@ -96,4 +96,4 @@ ELIO is compatible with major block-based learning platforms:
 ## 🌐 Language
 
 - 🇬🇧 English (current)
-- 🇰🇷 [**한국어**](/)
+- 🇰🇷 [**한국어**](/elio-docs/)

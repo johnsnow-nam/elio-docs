@@ -130,7 +130,7 @@ Servo port (3-pin):
   └─────┴─────┴─────┘
 ```
 
-Verify exact layout from board silkscreen or [hardware reference](/en/firmware/).
+Verify exact layout from board silkscreen or [hardware reference](/elio-docs/en/firmware/).
 
 ---
 
@@ -145,8 +145,8 @@ Verify exact layout from board silkscreen or [hardware reference](/en/firmware/)
 
 ## 📸 Instructables Tutorials
 
-- 🛠️ [**"Connect Any Motor with Cables You Already Own"**](/assets/downloads/instructables/01/) *(Wave 1 — Tutorial 1)*
-- 🧱 [**"Lego Motors + ELIO: Build Any Robot"**](/assets/downloads/instructables/02/) *(Wave 1 — Tutorial 2)*
+- 🛠️ [**"Connect Any Motor with Cables You Already Own"**](/elio-docs/assets/downloads/instructables/01/) *(Wave 1 — Tutorial 1)*
+- 🧱 [**"Lego Motors + ELIO: Build Any Robot"**](/elio-docs/assets/downloads/instructables/02/) *(Wave 1 — Tutorial 2)*
 
 ---
 
@@ -157,4 +157,4 @@ Verify exact layout from board silkscreen or [hardware reference](/en/firmware/)
 
 ---
 
-🌐 [**한국어**](/connectors/motor-guide/)
+🌐 [**한국어**](/elio-docs/connectors/motor-guide/)

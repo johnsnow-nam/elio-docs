@@ -162,11 +162,11 @@ with eliochannel('/dev/ttyUSB0') as ch:
 
 ---
 
-🌐 [**English**](/en/platforms/python/)
+🌐 [**English**](/elio-docs/en/platforms/python/)
 
 ---
 
 **다음 단계**
-- [Arduino + ELIO](/ecosystem/arduino/) — 같은 UART 프로토콜, C++ 환경
-- [ESP32 + ELIO](/ecosystem/esp32/) — WiFi + AI 비전 확장
-- [에코시스템 전체 보기](/ecosystem/)
+- [Arduino + ELIO](/elio-docs/ecosystem/arduino/) — 같은 UART 프로토콜, C++ 환경
+- [ESP32 + ELIO](/elio-docs/ecosystem/esp32/) — WiFi + AI 비전 확장
+- [에코시스템 전체 보기](/elio-docs/ecosystem/)

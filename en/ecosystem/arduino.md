@@ -109,7 +109,7 @@ void loop() {
 
 ## 📸 Instructables Tutorial
 
-[**"ELIO + Arduino: Two Boards Talking via UART"**](/assets/downloads/instructables/04/) *(Wave 1 — Tutorial 4)*
+[**"ELIO + Arduino: Two Boards Talking via UART"**](/elio-docs/assets/downloads/instructables/04/) *(Wave 1 — Tutorial 4)*
 
 ---
 
@@ -121,4 +121,4 @@ void loop() {
 
 ---
 
-🌐 [**한국어**](/ecosystem/arduino/)
+🌐 [**한국어**](/elio-docs/ecosystem/arduino/)

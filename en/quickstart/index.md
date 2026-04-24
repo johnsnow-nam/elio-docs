@@ -33,7 +33,7 @@ permalink: /en/quickstart/
 
 ## 1️⃣ Unbox
 
-👉 [**Unboxing Guide**](/en/quickstart/unboxing/)
+👉 [**Unboxing Guide**](/elio-docs/en/quickstart/unboxing/)
 
 ---
 
@@ -41,8 +41,8 @@ permalink: /en/quickstart/
 
 Choose your platform:
 
-- 📱 [**Android**](/en/quickstart/android/)
-- 🍎 [**iOS**](/en/quickstart/ios/)
+- 📱 [**Android**](/elio-docs/en/quickstart/android/)
+- 🍎 [**iOS**](/elio-docs/en/quickstart/ios/)
 
 ---
 
@@ -62,33 +62,33 @@ Connect an ultrasonic sensor (5V + IO1 + IO2). In the app's **Sensors** tab, ena
 
 ELIO has **4 personalities**. Swap profiles from the mobile app.
 
-👉 [**One board, four personalities**](/en/firmware/)
+👉 [**One board, four personalities**](/elio-docs/en/firmware/)
 
 ---
 
 ## 🆘 Troubleshooting
 
-- 🔌 [**Can't connect**](/en/troubleshooting/#connection)
-- 🔋 [**No power**](/en/troubleshooting/#power)
-- 📡 [**BLE not found**](/en/troubleshooting/#ble)
+- 🔌 [**Can't connect**](/elio-docs/en/troubleshooting/#connection)
+- 🔋 [**No power**](/elio-docs/en/troubleshooting/#power)
+- 📡 [**BLE not found**](/elio-docs/en/troubleshooting/#ble)
 - 💬 [**Support**](mailto:caram88@mobilian.biz)
 
 ---
 
 ## 📥 Offline PDF
 
-- 🇬🇧 [**Quick Start Guide (English, A5 8p)**](/assets/downloads/elio-quickstart-en.pdf) *(Coming soon)*
-- 🇰🇷 [**빠른 시작 가이드 (한국어, A5 8p)**](/assets/downloads/elio-quickstart-ko.pdf) *(준비 중)*
+- 🇬🇧 [**Quick Start Guide (English, A5 8p)**](/elio-docs/assets/downloads/elio-quickstart-en.pdf) *(Coming soon)*
+- 🇰🇷 [**빠른 시작 가이드 (한국어, A5 8p)**](/elio-docs/assets/downloads/elio-quickstart-ko.pdf) *(준비 중)*
 
 ---
 
 ## Next Steps
 
-- [**4 firmware profiles**](/en/firmware/)
-- [**Connect LEGO motors**](/en/connectors/motor-guide/)
-- [**Use ELIO in Scratch 3.0**](/en/platforms/scratch/)
-- [**Arduino + ELIO via UART**](/en/ecosystem/arduino/)
+- [**4 firmware profiles**](/elio-docs/en/firmware/)
+- [**Connect LEGO motors**](/elio-docs/en/connectors/motor-guide/)
+- [**Use ELIO in Scratch 3.0**](/elio-docs/en/platforms/scratch/)
+- [**Arduino + ELIO via UART**](/elio-docs/en/ecosystem/arduino/)
 
 ---
 
-🌐 [**한국어 버전**](/quickstart/)
+🌐 [**한국어 버전**](/elio-docs/quickstart/)

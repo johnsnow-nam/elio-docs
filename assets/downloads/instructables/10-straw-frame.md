@@ -56,7 +56,7 @@ permalink: /assets/downloads/instructables/10/
 ## Classroom Notes
 
 This is the culminating tutorial of the 60-activity straw frame curriculum for elementary school.  
-See [Elementary Maker Activities](/education/elementary/) for full curriculum guide.
+See [Elementary Maker Activities](/elio-docs/education/elementary/) for full curriculum guide.
 
 ---
 

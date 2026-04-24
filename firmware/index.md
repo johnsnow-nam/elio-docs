@@ -15,25 +15,25 @@ permalink: /firmware/
 <table>
 <tr><th>프로파일</th><th>특기</th><th>주 센서</th><th>추천 프로젝트</th></tr>
 <tr>
-<td><a href="/firmware/elio-base/"><b>elio-base</b></a></td>
+<td><a href="/elio-docs/firmware/elio-base/"><b>elio-base</b></a></td>
 <td>기본 구성</td>
 <td>-</td>
 <td>RC 카, 기본 로봇</td>
 </tr>
 <tr>
-<td><a href="/firmware/elio-farm/"><b>elio-farm</b></a></td>
+<td><a href="/elio-docs/firmware/elio-farm/"><b>elio-farm</b></a></td>
 <td>환경 센서</td>
 <td>온도 · 습도 · 수분</td>
 <td>스마트 화분, 농업 IoT</td>
 </tr>
 <tr>
-<td><a href="/firmware/elio-servo/"><b>elio-servo</b></a></td>
+<td><a href="/elio-docs/firmware/elio-servo/"><b>elio-servo</b></a></td>
 <td>서보 특화</td>
 <td>-</td>
 <td>다관절 로봇, 2축 짐벌</td>
 </tr>
 <tr>
-<td><a href="/firmware/elio-sensor/"><b>elio-sensor</b></a></td>
+<td><a href="/elio-docs/firmware/elio-sensor/"><b>elio-sensor</b></a></td>
 <td>풀 센서 스택</td>
 <td>초음파 · 라인 · 조도</td>
 <td>라인 팔로잉, 자율 주행</td>
@@ -63,9 +63,9 @@ permalink: /firmware/
 
 ## 📚 관련 문서
 
-- [펌웨어 간 차이](/firmware/elio-base/#비교) *(각 페이지 하단에 비교표)*
-- [DFU 진행 중 문제 해결](/troubleshooting/#펌웨어)
+- [펌웨어 간 차이](/elio-docs/firmware/elio-base/#비교) *(각 페이지 하단에 비교표)*
+- [DFU 진행 중 문제 해결](/elio-docs/troubleshooting/#펌웨어)
 
 ---
 
-🌐 [**English**](/en/firmware/)
+🌐 [**English**](/elio-docs/en/firmware/)

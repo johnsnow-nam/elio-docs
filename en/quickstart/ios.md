@@ -110,7 +110,7 @@ Use the wider control surface to place multiple controllers simultaneously.
 
 ## 🆘 Troubleshooting
 
-- 📡 [**BLE not found**](/en/troubleshooting/#ble)
+- 📡 [**BLE not found**](/elio-docs/en/troubleshooting/#ble)
 - 🔄 **Reset iOS Bluetooth**: Settings → General → Transfer or Reset → Reset Network Settings
 - ⚠️ **App not asking for Bluetooth permission**: Settings → ELIO → enable Bluetooth manually
 
@@ -118,9 +118,9 @@ Use the wider control surface to place multiple controllers simultaneously.
 
 ## Next
 
-- [**4 firmware profiles**](/en/firmware/)
-- [**LEGO motor connection**](/en/connectors/motor-guide/)
+- [**4 firmware profiles**](/elio-docs/en/firmware/)
+- [**LEGO motor connection**](/elio-docs/en/connectors/motor-guide/)
 
 ---
 
-⬅ [Back to Quick Start](/en/quickstart/)
+⬅ [Back to Quick Start](/elio-docs/en/quickstart/)

@@ -140,11 +140,11 @@ C/C++ 구현: ArduPilot의 AP_HAL UART 드라이버 사용.
 
 ---
 
-🌐 [**English**](/en/ecosystem/pixhawk/)
+🌐 [**English**](/elio-docs/en/ecosystem/pixhawk/)
 
 ---
 
 **다음 단계**
-- [ESP32 + ELIO](/ecosystem/esp32/) — WiFi 원격 제어
-- [Arduino + ELIO](/ecosystem/arduino/) — 지상 로봇 제어
-- [elio-servo 펌웨어](/firmware/elio-servo/) — 2축 짐벌 최적화 프로파일
+- [ESP32 + ELIO](/elio-docs/ecosystem/esp32/) — WiFi 원격 제어
+- [Arduino + ELIO](/elio-docs/ecosystem/arduino/) — 지상 로봇 제어
+- [elio-servo 펌웨어](/elio-docs/firmware/elio-servo/) — 2축 짐벌 최적화 프로파일

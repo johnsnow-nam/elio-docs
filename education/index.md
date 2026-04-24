@@ -15,8 +15,8 @@ permalink: /education/
 
 | 대상 | 주제 | 가이드 |
 |------|------|--------|
-| **초등학교** | 메이커 교육, 창의력, 빨대 프레임 구조물 | [초등 메이커 활동](/education/elementary/) |
-| **중학교** | 기술 교과 로봇 단원, 코딩 연계 | [중학교 기술 교과 가이드](/education/middle-school/) |
+| **초등학교** | 메이커 교육, 창의력, 빨대 프레임 구조물 | [초등 메이커 활동](/elio-docs/education/elementary/) |
+| **중학교** | 기술 교과 로봇 단원, 코딩 연계 | [중학교 기술 교과 가이드](/elio-docs/education/middle-school/) |
 
 ---
 
@@ -49,17 +49,17 @@ permalink: /education/
 
 ## 🔗 관련 코딩 플랫폼
 
-- [Entry (엔트리) + ELIO](/platforms/entry/) — 한국 교육 현장 표준
-- [Scratch 3.0 + ELIO](/platforms/scratch/) — 글로벌 블록 코딩
-- [Python UART SDK](/platforms/python/) — 고급 텍스트 코딩
+- [Entry (엔트리) + ELIO](/elio-docs/platforms/entry/) — 한국 교육 현장 표준
+- [Scratch 3.0 + ELIO](/elio-docs/platforms/scratch/) — 글로벌 블록 코딩
+- [Python UART SDK](/elio-docs/platforms/python/) — 고급 텍스트 코딩
 
 ---
 
-🌐 [**English**](/en/education/)
+🌐 [**English**](/elio-docs/en/education/)
 
 ---
 
 **관련 문서**
-- [Quick Start — 30분 시작](/quickstart/)
-- [커넥터 가이드 — 레고·다양한 모터 연결](/connectors/motor-guide/)
-- [문제 해결](/troubleshooting/)
+- [Quick Start — 30분 시작](/elio-docs/quickstart/)
+- [커넥터 가이드 — 레고·다양한 모터 연결](/elio-docs/connectors/motor-guide/)
+- [문제 해결](/elio-docs/troubleshooting/)

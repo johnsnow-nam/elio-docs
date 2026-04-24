@@ -59,7 +59,7 @@ permalink: /quickstart/android/
 1. USB-C 케이블로 전원 공급
 2. **LED가 천천히 깜빡이는지** 확인 (1초 간격)
 
-> LED가 안 켜지면 [전원 문제 해결](/troubleshooting/#전원)을 먼저 봐주세요.
+> LED가 안 켜지면 [전원 문제 해결](/elio-docs/troubleshooting/#전원)을 먼저 봐주세요.
 
 ---
 
@@ -113,18 +113,18 @@ DC 모터의 두 선을 **DC1 포트**의 두 단자에 연결 (극성은 바뀌
 
 ## 🆘 잘 안 되면
 
-- 🔌 [**연결이 안 돼요**](/troubleshooting/#연결)
-- 📡 [**BLE 검색이 안 돼요**](/troubleshooting/#ble)
-- 🔋 [**LED는 깜빡이는데 앱이 못 찾음**](/troubleshooting/#ble)
+- 🔌 [**연결이 안 돼요**](/elio-docs/troubleshooting/#연결)
+- 📡 [**BLE 검색이 안 돼요**](/elio-docs/troubleshooting/#ble)
+- 🔋 [**LED는 깜빡이는데 앱이 못 찾음**](/elio-docs/troubleshooting/#ble)
 
 ---
 
 ## 다음 단계
 
-- [**4가지 펌웨어 프로파일 바꿔보기**](/firmware/)
-- [**레고 모터 연결하기**](/connectors/motor-guide/)
-- [**Entry · Scratch와 연결**](/platforms/)
+- [**4가지 펌웨어 프로파일 바꿔보기**](/elio-docs/firmware/)
+- [**레고 모터 연결하기**](/elio-docs/connectors/motor-guide/)
+- [**Entry · Scratch와 연결**](/elio-docs/platforms/)
 
 ---
 
-⬅ [빠른 시작으로 돌아가기](/quickstart/)
+⬅ [빠른 시작으로 돌아가기](/elio-docs/quickstart/)

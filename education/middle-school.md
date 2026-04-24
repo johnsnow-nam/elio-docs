@@ -108,11 +108,11 @@ permalink: /education/middle-school/
 
 ---
 
-🌐 [**English**](/en/education/middle-school/)
+🌐 [**English**](/elio-docs/en/education/middle-school/)
 
 ---
 
 **관련 문서**
-- [Entry (엔트리) + ELIO](/platforms/entry/)
-- [초등 메이커 활동](/education/elementary/)
-- [교육 자료 홈](/education/)
+- [Entry (엔트리) + ELIO](/elio-docs/platforms/entry/)
+- [초등 메이커 활동](/elio-docs/education/elementary/)
+- [교육 자료 홈](/elio-docs/education/)

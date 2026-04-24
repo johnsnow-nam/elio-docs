@@ -110,7 +110,7 @@ iPad 사용자는 더 넓은 조종 UI를 이용할 수 있습니다. 여러 컨
 
 ## 🆘 잘 안 되면
 
-- 📡 [**BLE 검색이 안 돼요**](/troubleshooting/#ble)
+- 📡 [**BLE 검색이 안 돼요**](/elio-docs/troubleshooting/#ble)
 - 🔄 **iOS 블루투스 설정 초기화**: 설정 → 일반 → 이동 또는 재설정 → 네트워크 설정 재설정
 - ⚠️ **앱이 Bluetooth 권한을 물어보지 않으면**: 설정 → ELIO → Bluetooth를 수동으로 켜세요
 
@@ -118,9 +118,9 @@ iPad 사용자는 더 넓은 조종 UI를 이용할 수 있습니다. 여러 컨
 
 ## 다음 단계
 
-- [**4가지 펌웨어 변신**](/firmware/)
-- [**레고 모터와 연결**](/connectors/motor-guide/)
+- [**4가지 펌웨어 변신**](/elio-docs/firmware/)
+- [**레고 모터와 연결**](/elio-docs/connectors/motor-guide/)
 
 ---
 
-⬅ [빠른 시작으로 돌아가기](/quickstart/)
+⬅ [빠른 시작으로 돌아가기](/elio-docs/quickstart/)

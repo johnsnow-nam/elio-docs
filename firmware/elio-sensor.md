@@ -57,8 +57,8 @@ sensor_light  = 0x08
 ## 다음 단계
 
 - 🏎️ [**Instructables: Line-Following Robot**](https://instructables.com/) *(Wave 1)*
-- 📷 [**ESP32 AI 카메라와 결합**](/ecosystem/esp32/)
+- 📷 [**ESP32 AI 카메라와 결합**](/elio-docs/ecosystem/esp32/)
 
 ---
 
-⬅ [펌웨어 개요](/firmware/)
+⬅ [펌웨어 개요](/elio-docs/firmware/)

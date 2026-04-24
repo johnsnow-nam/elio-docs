@@ -128,11 +128,11 @@ permalink: /education/elementary/
 
 ---
 
-🌐 [**English**](/en/education/elementary/)
+🌐 [**English**](/elio-docs/en/education/elementary/)
 
 ---
 
 **관련 문서**
-- [중학교 기술 교과 가이드](/education/middle-school/)
-- [교육 자료 홈](/education/)
-- [Quick Start](/quickstart/)
+- [중학교 기술 교과 가이드](/elio-docs/education/middle-school/)
+- [교육 자료 홈](/elio-docs/education/)
+- [Quick Start](/elio-docs/quickstart/)

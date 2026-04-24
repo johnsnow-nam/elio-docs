@@ -104,11 +104,11 @@ permalink: /platforms/scratch/
 
 ---
 
-🌐 [**English**](/en/platforms/scratch/)
+🌐 [**English**](/elio-docs/en/platforms/scratch/)
 
 ---
 
 **다음 단계**
-- [Entry (엔트리) + ELIO](/platforms/entry/) — 한국어 교육 플랫폼
-- [Python UART SDK](/platforms/python/) — 동글 없이 직결
-- [에코시스템](/ecosystem/) — Arduino·ESP32 확장
+- [Entry (엔트리) + ELIO](/elio-docs/platforms/entry/) — 한국어 교육 플랫폼
+- [Python UART SDK](/elio-docs/platforms/python/) — 동글 없이 직결
+- [에코시스템](/elio-docs/ecosystem/) — Arduino·ESP32 확장

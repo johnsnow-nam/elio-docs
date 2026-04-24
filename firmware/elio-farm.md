@@ -38,9 +38,9 @@ elio-base의 모든 기능 + 다음 센서:
 
 ## 다음 단계
 
-- 🏫 [**중학교 기술 교과 연계 — 스마트 화분 만들기**](/education/middle-school/)
-- 🔌 [**Arduino로 농장 센서 확장하기**](/ecosystem/arduino/)
+- 🏫 [**중학교 기술 교과 연계 — 스마트 화분 만들기**](/elio-docs/education/middle-school/)
+- 🔌 [**Arduino로 농장 센서 확장하기**](/elio-docs/ecosystem/arduino/)
 
 ---
 
-⬅ [펌웨어 개요](/firmware/)
+⬅ [펌웨어 개요](/elio-docs/firmware/)

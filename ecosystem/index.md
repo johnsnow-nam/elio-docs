@@ -15,10 +15,10 @@ permalink: /ecosystem/
 
 | 파트너 | 연결 방식 | 특기 |
 |--------|-----------|------|
-| [**Arduino**](/ecosystem/arduino/) | UART (TX/RX/GND) | 방대한 쉴드·라이브러리 |
-| [**ESP32**](/ecosystem/esp32/) | UART (TX/RX/GND) | WiFi + AI 비전 |
-| [**micro:bit**](/ecosystem/microbit/) | UART (TX/RX/GND) | 교육, MakeCode 블록 |
-| [**Pixhawk**](/ecosystem/pixhawk/) | UART (TELEM2) | 드론·자율주행 제어 |
+| [**Arduino**](/elio-docs/ecosystem/arduino/) | UART (TX/RX/GND) | 방대한 쉴드·라이브러리 |
+| [**ESP32**](/elio-docs/ecosystem/esp32/) | UART (TX/RX/GND) | WiFi + AI 비전 |
+| [**micro:bit**](/elio-docs/ecosystem/microbit/) | UART (TX/RX/GND) | 교육, MakeCode 블록 |
+| [**Pixhawk**](/elio-docs/ecosystem/pixhawk/) | UART (TELEM2) | 드론·자율주행 제어 |
 
 ---
 
@@ -61,11 +61,11 @@ ELIO는 Arduino·micro:bit·Lego 같은 플랫폼의 **경쟁자가 아닌 동�
 
 ---
 
-🌐 [**English**](/en/ecosystem/)
+🌐 [**English**](/elio-docs/en/ecosystem/)
 
 ---
 
 **관련 문서**
-- [코딩 플랫폼 (Entry·Scratch·Python)](/platforms/)
-- [커넥터 가이드](/connectors/motor-guide/)
-- [펌웨어 프로파일](/firmware/)
+- [코딩 플랫폼 (Entry·Scratch·Python)](/elio-docs/platforms/)
+- [커넥터 가이드](/elio-docs/connectors/motor-guide/)
+- [펌웨어 프로파일](/elio-docs/firmware/)

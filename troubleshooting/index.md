@@ -158,11 +158,11 @@ permalink: /troubleshooting/
 
 ---
 
-🌐 [**English**](/en/troubleshooting/)
+🌐 [**English**](/elio-docs/en/troubleshooting/)
 
 ---
 
 **관련 문서**
-- [Quick Start — 처음 시작하기](/quickstart/)
-- [펌웨어 프로파일](/firmware/)
-- [커넥터 가이드](/connectors/motor-guide/)
+- [Quick Start — 처음 시작하기](/elio-docs/quickstart/)
+- [펌웨어 프로파일](/elio-docs/firmware/)
+- [커넥터 가이드](/elio-docs/connectors/motor-guide/)

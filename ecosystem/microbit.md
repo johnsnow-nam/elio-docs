@@ -112,11 +112,11 @@ ELIO UART 프레임 구조:
 
 ---
 
-🌐 [**English**](/en/ecosystem/microbit/)
+🌐 [**English**](/elio-docs/en/ecosystem/microbit/)
 
 ---
 
 **다음 단계**
-- [Arduino + ELIO](/ecosystem/arduino/) — C++ 환경
-- [ESP32 + ELIO](/ecosystem/esp32/) — WiFi + AI 비전
-- [교육 가이드](/education/) — 수업 활용 자료
+- [Arduino + ELIO](/elio-docs/ecosystem/arduino/) — C++ 환경
+- [ESP32 + ELIO](/elio-docs/ecosystem/esp32/) — WiFi + AI 비전
+- [교육 가이드](/elio-docs/education/) — 수업 활용 자료

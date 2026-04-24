@@ -80,9 +80,9 @@ permalink: /en/quickstart/unboxing/
 
 Once powered, install the app:
 
-- 📱 [**Android**](/en/quickstart/android/)
-- 🍎 [**iOS**](/en/quickstart/ios/)
+- 📱 [**Android**](/elio-docs/en/quickstart/android/)
+- 🍎 [**iOS**](/elio-docs/en/quickstart/ios/)
 
 ---
 
-⬅ [Back to Quick Start](/en/quickstart/)
+⬅ [Back to Quick Start](/elio-docs/en/quickstart/)

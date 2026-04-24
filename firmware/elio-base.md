@@ -27,10 +27,10 @@ permalink: /firmware/elio-base/
 
 이 프로파일로 익숙해졌다면:
 
-- 🌱 [**elio-farm**](/firmware/elio-farm/) — 온습도·수분 센서로 확장
-- 🦿 [**elio-servo**](/firmware/elio-servo/) — 다관절 로봇
-- 👁️ [**elio-sensor**](/firmware/elio-sensor/) — 자율 주행
+- 🌱 [**elio-farm**](/elio-docs/firmware/elio-farm/) — 온습도·수분 센서로 확장
+- 🦿 [**elio-servo**](/elio-docs/firmware/elio-servo/) — 다관절 로봇
+- 👁️ [**elio-sensor**](/elio-docs/firmware/elio-sensor/) — 자율 주행
 
 ---
 
-⬅ [펌웨어 개요](/firmware/)
+⬅ [펌웨어 개요](/elio-docs/firmware/)

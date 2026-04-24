@@ -14,9 +14,9 @@ permalink: /platforms/
 
 | 플랫폼 | 대상 | 연결 방식 | 준비물 |
 |--------|------|-----------|--------|
-| [**Entry (엔트리)**](/platforms/entry/) | 초·중학생, 교사 | USB 동글 | ELIO + USB 동글 + PC |
-| [**Scratch 3.0**](/platforms/scratch/) | 전 연령, 글로벌 | USB 동글 | ELIO + USB 동글 + Chrome |
-| [**Python**](/platforms/python/) | 중학생~대학생, 메이커 | UART 직결 | ELIO + USB-UART 어댑터 |
+| [**Entry (엔트리)**](/elio-docs/platforms/entry/) | 초·중학생, 교사 | USB 동글 | ELIO + USB 동글 + PC |
+| [**Scratch 3.0**](/elio-docs/platforms/scratch/) | 전 연령, 글로벌 | USB 동글 | ELIO + USB 동글 + Chrome |
+| [**Python**](/elio-docs/platforms/python/) | 중학생~대학생, 메이커 | UART 직결 | ELIO + USB-UART 어댑터 |
 
 ---
 
@@ -55,11 +55,11 @@ Python 배우고 싶다면 → Python UART SDK
 
 ---
 
-🌐 [**English**](/en/platforms/)
+🌐 [**English**](/elio-docs/en/platforms/)
 
 ---
 
 **관련 문서**
-- [Quick Start](/quickstart/)
-- [에코시스템 — Arduino·ESP32·micro:bit](/ecosystem/)
-- [펌웨어 프로파일](/firmware/)
+- [Quick Start](/elio-docs/quickstart/)
+- [에코시스템 — Arduino·ESP32·micro:bit](/elio-docs/ecosystem/)
+- [펌웨어 프로파일](/elio-docs/firmware/)

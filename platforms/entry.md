@@ -85,11 +85,11 @@ Entry 웹 에디터([playentry.org](https://playentry.org/))에서:
 
 ---
 
-🌐 [**English**](/en/platforms/entry/)
+🌐 [**English**](/elio-docs/en/platforms/entry/)
 
 ---
 
 **다음 단계**
-- [Scratch 3.0 + ELIO](/platforms/scratch/) — 글로벌 플랫폼 도전
-- [Python UART SDK](/platforms/python/) — 텍스트 코딩으로 확장
-- [교육 가이드](/education/) — 수업 활용 자료
+- [Scratch 3.0 + ELIO](/elio-docs/platforms/scratch/) — 글로벌 플랫폼 도전
+- [Python UART SDK](/elio-docs/platforms/python/) — 텍스트 코딩으로 확장
+- [교육 가이드](/elio-docs/education/) — 수업 활용 자료

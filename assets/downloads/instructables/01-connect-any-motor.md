@@ -172,7 +172,7 @@ You've connected a motor with a cable you already had — that's ELIO's superpow
 
 - 🚗 **Build a full RC car** → Tutorial 2: [Lego Motors + ELIO](./02-lego-motors.md)
 - 🌱 **Add sensors** → Tutorial 5: [Ultrasonic Sensor Obstacle Avoidance](./05-ultrasonic-avoidance.md)
-- 🐍 **Code with Python** → [Python UART SDK Guide](/platforms/python/)
+- 🐍 **Code with Python** → [Python UART SDK Guide](/elio-docs/platforms/python/)
 - 🛒 **Get another ELIO** → [Tindie store](https://www.tindie.com/) — search "ELIO"
 
 ---
