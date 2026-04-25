@@ -76,6 +76,7 @@ ELIO는 주요 교육 블록 코딩 플랫폼과 호환됩니다:
 - [**중학교 기술 교과 연계 수업 가이드**](/elio-docs/education/middle-school/) — 12차시
 - [**초등 창의 활동 — 빨대 프레임 로봇 60가지**](/elio-docs/education/elementary/)
 - [**초등 6학년 실과 — 재활용·ELIO 자동차 (6차시)**](/elio-docs/education/elementary-upcycling-vehicle/)
+- [**박스 파이터 워크북 — 학습 맵 (Q1)**](/elio-docs/education/box-fighter-workbook/)
 
 ---
 
