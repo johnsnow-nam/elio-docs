@@ -1,7 +1,7 @@
 ---
 title: ELIO 2권 목차
 lang: ko
-permalink: /elio-docs/education/elio-vol2/
+permalink: /education/elio-vol2/
 ---
 
 # ELIO 2권
