@@ -6,7 +6,7 @@ permalink: /en/education/box-fighter-workbook/
 
 # Box Fighter curriculum map (Q1 workbook, Feb 2020)
 
-> **English summary** of a Korean **ELIO “Box Fighter”** education kit workbook (126 pages, internal PDF). The full workbook with screenshots and worksheets remains in the original PDF. Use this page for **navigation**, **learning goals**, and **key concepts**. For the latest hardware and app (e.g. **bletoy**), follow the [**Korean version**](/elio-docs/education/box-fighter-workbook/) and [Quick start](/elio-docs/en/quickstart/).
+> **English summary** of the **ELIO “Box Fighter”** education kit Q1 workbook (126 pages). **Project policy**: reuse, screenshots, and full worksheets may be republished without copyright concern. This page is for **navigation** and **key ideas**; for the Korean detail page see [**Korean version**](/elio-docs/education/box-fighter-workbook/) and [Quick start](/elio-docs/en/quickstart/) for **bletoy**.
 
 ---
 
