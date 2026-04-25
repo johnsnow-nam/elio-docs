@@ -11,6 +11,8 @@ permalink: /education/middle-school/
 > **총 수업 시간**: **4차시** (기본) / 17차시 (자유학기 연계 확장)  
 > **평가**: 25점 — 개인 활동지 10점 + 모둠 활동 15점
 
+![수행평가 주제 — 미래 친환경 전기자동차](/elio-docs/assets/downloads/edu/future-transport-01.png)
+
 ---
 
 ## 교사를 위한 안내
@@ -50,6 +52,8 @@ permalink: /education/middle-school/
 | 스마트폰 | 팀별 1대 | bletoy 앱 사전 설치 |
 | 뒷바퀴 재료 | 창의적으로 | 병뚜껑, 단추 등 자유 |
 | 꾸미기 재료 | 개인 | 마카, 색종이 등 |
+
+![수업 준비물 예시](/elio-docs/assets/downloads/edu/future-transport-12.png)
 
 ### 안전 수칙
 
@@ -209,6 +213,8 @@ DC 모터 (검은선) ──→ ELIO DC1 포트 (-)
 | 라인오버 | 3회 → 1점 감점 |
 | 제한 시간 | 3분 초과 시 도전 실패 |
 
+![Mission 1 도식](/elio-docs/assets/downloads/edu/future-transport-13.png)
+
 **🚛 Mission 2 — 이삿짐 박스 운송** *(선택 과제)*
 
 | 규칙 | 내용 |
@@ -218,6 +224,8 @@ DC 모터 (검은선) ──→ ELIO DC1 포트 (-)
 | 이탈 | 이동 중 박스 떨어지면 라인오버 1회 |
 | 제한 시간 | 3분 |
 | 허용 | 미션 해결을 위해 자동차 구조 개조 가능 |
+
+![Mission 2 도식](/elio-docs/assets/downloads/edu/future-transport-14.png)
 
 #### 발표 & 정리 (10분)
 
@@ -297,6 +305,8 @@ DC 모터 (검은선) ──→ ELIO DC1 포트 (-)
 | ELIO 문서 사이트 | [johnsnow-nam.github.io/elio-docs](/elio-docs/) |
 | Quick Start 가이드 | [/elio-docs/quickstart/](/elio-docs/quickstart/) |
 | Entry 연결 가이드 | [/elio-docs/platforms/entry/](/elio-docs/platforms/entry/) |
+
+**원본 자료(PDF)**: `엘리오 활용_미래수송기기(친환경 전기자동차) 만들기.pdf` (2019, 수행평가/수업자료)
 
 ---
 
