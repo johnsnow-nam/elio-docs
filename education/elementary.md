@@ -133,6 +133,7 @@ permalink: /education/elementary/
 ---
 
 **관련 문서**
+- [초등 6 — 재활용·새활용 + ELIO 자동차 (6차시)](/elio-docs/education/elementary-upcycling-vehicle/)
 - [중학교 기술 교과 가이드](/elio-docs/education/middle-school/)
 - [교육 자료 홈](/elio-docs/education/)
 - [Quick Start](/elio-docs/quickstart/)
