@@ -19,6 +19,7 @@ permalink: /education/
 | **초등(6) 실과** | 재활용·새활용 + ELIO 자동차 (6차시) | [단원 가이드 — 새활용 자동차](/elio-docs/education/elementary-upcycling-vehicle/) |
 | **교육 키트** | 박스 파이터 워크북 Q1 — 12단원 전체 (단원별 상세) | [박스 파이터 단원별 가이드](/elio-docs/education/box-fighter/) |
 | **교육 키트** | 박스 파이터 워크북 (Q1, 2020) — 요약·핵심표 | [박스 파이터 학습 맵](/elio-docs/education/box-fighter-workbook/) |
+| **중학교 3학년** | 기술·가정 수행평가 — 친환경 전기자동차 만들기 (25점) | [미래 전기자동차 수행평가](/elio-docs/education/future-ev-car/) |
 | **중학교** | 기술 교과 로봇 단원, 코딩 연계 | [중학교 기술 교과 가이드](/elio-docs/education/middle-school/) |
 
 ---
