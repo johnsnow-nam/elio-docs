@@ -18,8 +18,12 @@ permalink: /education/
 | **초등학교** | 메이커 교육, 창의력, 빨대 프레임 구조물 | [초등 메이커 활동](/elio-docs/education/elementary/) |
 | **초등(6) 실과** | 재활용·새활용 + ELIO 자동차 (6차시) | [단원 가이드 — 새활용 자동차](/elio-docs/education/elementary-upcycling-vehicle/) |
 | **교육 키트** | 박스 파이터 워크북 Q1 — 12단원 전체 (단원별 상세) | [박스 파이터 단원별 가이드](/elio-docs/education/box-fighter/) |
+| **유튜브 강좌** | ELIO 보드·앱·Blockly 1~21강 (한동효) | [유튜브 강좌 학습 가이드](/elio-docs/education/youtube-elio/) |
 | **교육 키트** | 박스 파이터 워크북 (Q1, 2020) — 요약·핵심표 | [박스 파이터 학습 맵](/elio-docs/education/box-fighter-workbook/) |
 | **교과서** | ELIO 1권(토이스토리) — 기초부터 응용까지 10단원 | [ELIO 1권 목차](/elio-docs/education/elio-vol1/) |
+| **교과서** | ELIO 2권 — 심화 응용 (15단원) | [ELIO 2권 목차](/elio-docs/education/elio-vol2/) |
+| **교과서** | ELIO 3권 — 고급 프로젝트 | [ELIO 3권 목차](/elio-docs/education/elio-vol3/) |
+| **교과서** | ELIO 4권 — 전문가 수준 응용 | [ELIO 4권 목차](/elio-docs/education/elio-vol4/) |
 | **중학교 3학년** | 기술·가정 수행평가 — 친환경 전기자동차 만들기 (25점) | [미래 전기자동차 수행평가](/elio-docs/education/future-ev-car/) |
 | **중학교** | 기술 교과 로봇 단원, 코딩 연계 | [중학교 기술 교과 가이드](/elio-docs/education/middle-school/) |
 
